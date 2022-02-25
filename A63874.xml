@@ -1,0 +1,1077 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Affectuum decidua, or, Due expressions in honour of the truly noble Charles Capell, Esq. (sonne to the Right Honourable Arthur Ld. Capell, Baron of Hadham) deceased on Christmas Day, 1656</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63874</idno>
+            <idno type="STC">Wing T3273</idno>
+            <idno type="STC">ESTC R5314</idno>
+            <idno type="EEBO-CITATION">12635017</idno>
+            <idno type="OCLC">ocm 12635017</idno>
+            <idno type="VID">64851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64851)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 337:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Affectuum decidua, or, Due expressions in honour of the truly noble Charles Capell, Esq. (sonne to the Right Honourable Arthur Ld. Capell, Baron of Hadham) deceased on Christmas Day, 1656</title>
+                  <author>Turner, Francis, 1638?-1700.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Poems on the death of Charles Capel by Francis Turner and ten others (mostly New College men).</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Capel, Charles, 1638?-1656 --  Poetry.</term>
+               <term>Elegiac poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64851:1" rendition="simple:additions"/>
+            <pb facs="tcp:64851:1" rendition="simple:additions"/>
+            <p>
+               <hi>AFFECT<g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>M DECID<g ref="char:V">Ʋ</g>A,</hi> Or DVE EXPRESSIONS In honour of the truly noble CHARLES CAPELL <hi>Eſq.</hi>
+            </p>
+            <p>(Sonne to the right honourable <hi>ARTH<g ref="char:V">Ʋ</g>R</hi> L<hi rend="sup">d</hi> 
+               <hi>CAPELL</hi> Baron of <hi>Hadham</hi>) deceaſed on <hi>Chriſtmas Day</hi> 1656.</p>
+            <lg>
+               <l>Quis deſiderio ſit pudor, aut modus</l>
+               <l>Tam Chari Capitis?—</l>
+            </lg>
+            <p>
+               <hi>OXFORD,</hi> Printed <hi>Anno Dom.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:64851:2"/>
+            <pb n="1" facs="tcp:64851:2"/>
+            <head>To the Honourable <hi>HENRY CAPELL Eſq:</hi> Son to the Lord CAPELL, Baron of <hi>Hadham: Theſe enſuing</hi> ELEGIES are <hi>Moſt humbly Dedicated and Preſented.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Honoured S<hi rend="sup">r</hi>,</salute>
+            </opener>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hen I had wept ſo long, till all their ſtore</l>
+               <l>Mine Eyes had ſpent, and ſo could weep no more;</l>
+               <l>My Hands turn'd Publicanes, t'recieveth' Arrears,</l>
+               <l>Such as were ſent by other Volunteers.</l>
+               <l>I know what hazard They, and I may run,</l>
+               <l>Condemn'd perhaps for ſtrange preſumption;</l>
+               <l>But, view Thoſe Hearts, which through the mourning Dreſſe</l>
+               <l>Of reptile Elegies, are crept to th' Preſſe,</l>
+               <l>And You'l confeſſe, as all the World beſide,</l>
+               <l>It was our Duties Product, not our Pride:</l>
+               <l>Then thinke (for charitie) that all was done</l>
+               <l>Out of Reſpect, not Oſtentation;</l>
+               <pb n="2" facs="tcp:64851:3"/>
+               <l>And where the higheſt Auxeſis You ſee,</l>
+               <l>Call it ambitious Realitie.</l>
+            </lg>
+            <lg>
+               <l>Believe but This; let Hell<g ref="char:punc">▪</g> and Earth let looſe</l>
+               <l>Cenſures, which might Momus himſelfe amuſe:</l>
+               <l>Go angry Billowes, ceaſe to Roare, or Hiſſe,</l>
+               <l>Though <hi>Caſtor</hi> 's gon, <hi>Pollux</hi> my Patron is.</l>
+            </lg>
+            <closer>
+               <signed>Your Honour's moſt faithfull, moſt humble, and moſt oblieged Servant FRANC: TURNER.</signed> 
+               <dateline>From New Coll. Oxon <date>March. 2. 1656.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="3" facs="tcp:64851:3"/>
+            <head>To the Right Honourable The Lady CAPELL Baroneſſe, by occaſion of the death of the highly accompliſht her deare Son Mr <hi>CHARLES CAPELL.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <lg>
+               <l>SHould I'curſe <hi>Atropos</hi> for this,</l>
+               <l>Or damne <hi>Alecto</hi> to Whippe <hi>Lacheſis;</hi>
+               </l>
+               <l>Should I make huge Apoſtrophe's to Fate,</l>
+               <l>Or banne pale Death as too Importunate,</l>
+               <l>I know you'd loath each line: Your Nobler ſenſe</l>
+               <l>Honour'd by us, Worſhips a Providence:</l>
+               <l>You bow to th' Juſtice, Goodneſſe, and the Care</l>
+               <l>Of that Allmighty Guardian whoſe you are</l>
+               <l>And whom you ſerve<g ref="char:punc">▪</g> and could not chuſe but cry</l>
+               <l>Out Heatheniſme! out Fledg'd Blaſphemy!</l>
+               <l>But ſince your Honour knowes our hearts are cold,</l>
+               <l>Pardon a ſigh or two: We muſt be bold</l>
+               <l>To beg 't, and to conceive 't a Veniall Sin</l>
+               <l>To let thoſe goe no Spirit can keepe in.</l>
+            </lg>
+            <lg>
+               <l>Th' are all for <hi>Him</hi> of whom you thinke and dream,</l>
+               <l>For as ſmall Brook's are Swallow'd in the ſtreame,</l>
+               <l>And th' Plague devours Agues: ſo W' are growne</l>
+               <l>To have ten thouſand greifs, and yet but <hi>One.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In <hi>Him</hi> Was (ah ſad Was!) in <hi>Him</hi> was ſeene</l>
+               <l>Our all; more than all <hi>Neſtor</hi> at eighteene:</l>
+               <pb n="4" facs="tcp:64851:4"/>
+               <l>In's Travails he indulg'd the World; He wan</l>
+               <l>Affections, gave the Copy of a Man:</l>
+               <l>At home, I cry to thinke how Coveted</l>
+               <l>Ith' Feild, ith' Schooles, at Councells, Board, and Bed.</l>
+               <l>We cannot gueſſe our loſſe: The <hi>Spaniard</hi> know's</l>
+               <l>As well what ingot in <hi>Potoſi</hi> growes;</l>
+               <l>
+                  <hi>Neptune</hi> may count his Treaſures up aſſoone;</l>
+               <l>As we what Glory's buried here in one.</l>
+            </lg>
+            <lg>
+               <l>His worth cracks Phancy, and Hyperbolyes:</l>
+               <l>Fame would performe his Apotheoſis,</l>
+               <l>But Finds her ſelfe too weake ith' Lungs to hold</l>
+               <l>Till th' Tith off him toth' liſtning world be told:</l>
+               <l>Men cald him Heav'n on earth; but Now we ſee</l>
+               <l>That Heav'n on Heav'n makes no Falſe Heraldry.</l>
+            </lg>
+            <lg>
+               <l>This was his Scene: he came to be deſir'd</l>
+               <l>And Bluſh, at's owne deſerts to be admir'd.</l>
+               <l>Yours, <hi>Madam,</hi> is the Next: and 'tis that Feild</l>
+               <l>Muſt to your ſexes Valour Trophee's Yeild,</l>
+               <l>Whoſe tenderneſſe hates ſteele: Tis this muſt be</l>
+               <l>Your <hi>Marſton-moore, Edg-Hill,</hi> and <hi>Newbury:</hi>
+               </l>
+               <l>Never came Paſſion ſo impowr'd, ſo ſtrong,</l>
+               <l>Or Mad for Conqueſt: We here of the throng</l>
+               <l>All looke at th' Iſſue. Get the day: and then</l>
+               <l>Great <hi>Xander</hi> waits among your ſerving men.</l>
+            </lg>
+            <lg>
+               <l>You'd know how ſuch a Battle might be won:</l>
+               <l>Heare what your Chaplaine ſay's, and it is done.</l>
+            </lg>
+            <closer>
+               <signed>Your Ladyſhips with all Lowlineſſe and Devotion to Serve you R. SHARROCK.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="5" facs="tcp:64851:4"/>
+            <head>On the Death of the honourable <hi>CHARLES CAPELL</hi> Eſq;, deceaſed not long be<g ref="char:EOLhyphen"/>fore His intended Marriage.</head>
+            <lg>
+               <l>ONe onely Time (that happy Day,</l>
+               <l>From which I keepe my <hi>Epocha</hi>)</l>
+               <l>I ſaw <hi>This</hi> Heroe; ſuch a ſight</l>
+               <l>Might rivall Heav'n, and Earth benight.</l>
+               <l>Let thoſe who knew <hi>Him</hi> better, praiſe</l>
+               <l>
+                  <hi>His</hi> noble Soule; my humbler Bayes.</l>
+               <l>Aſpire no further, then to ſhew</l>
+               <l>The ſtrangeneſſe of that <hi>Interview:</hi>
+               </l>
+               <l>Thus to behold the greatneſſe of our loſſe,</l>
+               <l>His face ſhall ſerve me for a Looking glaſſe,</l>
+               <l>Whoſe trickling Eyes did never ſee</l>
+               <l>In nature's proudeſt Imag'ry,</l>
+               <l>One of ſo rare a make as <hi>HE.</hi>
+               </l>
+               <l>Methoughts <hi>His</hi> manly viſage own'd,</l>
+               <l>That Love, and Honour there were thron'd,</l>
+               <l>As if they Two ſhould on that ſtage,</l>
+               <l>Get warriours for the future Age:</l>
+               <l>His Eyes they might be <hi>Venus</hi> hopes,</l>
+               <l>And yet <hi>Bellona's</hi> Teleſcopes:</l>
+               <l>One Glance could looke us Dead, and then</l>
+               <l>Another call us back agen.</l>
+               <l>Who this ſhould be, my gueſſe had ſtraggled farre;</l>
+               <l>He ſeem'd both <hi>Phaebus,</hi> and the <hi>God of Warr;</hi>
+               </l>
+               <pb n="6" facs="tcp:64851:5"/>
+               <l>But by inſtinct, at laſt I hit</l>
+               <l>That 'twas <hi>Prince Arthur's</hi> ſonne, and yet</l>
+               <l>That <hi>HE</hi> himſelfe was <hi>Charles the Great.</hi>
+               </l>
+               <l>Who e're <hi>He</hi> was, the ſtanders by</l>
+               <l>Were all <hi>Bedwarft,</hi> as well as I;</l>
+               <l>For what ſo ere <hi>He</hi> did, it all</l>
+               <l>Became <hi>Him</hi> as a Generall:</l>
+               <l>O had he bin the <hi>Giants</hi> Cheife,</l>
+               <l>To range their Troops and bring reliefe,</l>
+               <l>To fetch them off, and lead them on,</l>
+               <l>(Though they caſhier'd <hi>Oromedon</hi>)</l>
+               <l>Maugre<g ref="char:punc">▪</g> the ſhrinking Gods, and their allies,</l>
+               <l>They might have ſup't that very night i'th' skies.</l>
+               <l>And <hi>Jove</hi> the leſſer, poore pedee,</l>
+               <l>Preſſing to ſerve <hi>Him</hi> on the Knee,</l>
+               <l>Reſign'd <hi>His</hi> ill-got Soveraignty.</l>
+               <l>Say then, interpreter, whoſe Ey</l>
+               <l>Uncloud's the miſtique Energy</l>
+               <l>Of things abſtruſe; come tell us how</l>
+               <l>Death overcame <hi>His</hi> courage now;</l>
+               <l>Was <hi>He</hi> tan'e napping (as 'tis ſaid)</l>
+               <l>Upon <hi>His</hi> almoſt-Nuptiall bed?</l>
+               <l>Or did <hi>His</hi> haughty Soule diſdaine,</l>
+               <l>To fight the daſtard Death againe?</l>
+               <l>Eſteeming <hi>Him</hi> but as a vanquiſht foe,</l>
+               <l>'Bove <hi>Sixteene Hundred Chriſtmaſſes</hi> agoe?</l>
+               <l>No, no ſuch ſtratagem would take,</l>
+               <l>For all <hi>His</hi> valour would awake</l>
+               <l>For <hi>His</hi> betrothed Ladie's ſake.</l>
+               <l>But the <hi>Triumphant</hi> Church on high,</l>
+               <l>Wanted <hi>His</hi> preſence in the Skie,</l>
+               <pb n="7" facs="tcp:64851:5"/>
+               <l>And now forſaken we muſt want</l>
+               <l>
+                  <hi>His</hi> preſence in the <hi>Militant:</hi>
+               </l>
+               <l>Thinke then <hi>He</hi> was <hi>unman'd</hi> to be</l>
+               <l>Made Part'ner in That <hi>Hierarchie:</hi>
+               </l>
+               <l>And what we nick-nam'd Forward Fate,</l>
+               <l>A Prologue to <hi>His</hi> nobler State;</l>
+               <l>So like <hi>Aenaeas He</hi> made haſt to Die</l>
+               <l>The fitter to accept a Deity.</l>
+               <l>But, were not Heav'n <hi>His</hi> Journey's End,</l>
+               <l>In <hi>One ſo High,</hi> I durſt contend</l>
+               <l>'Twere <hi>Condeſcention to Aſcend.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>THO: HUSEY Col: Trinit. Gent. Com:</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>On the much lamented Death, of the honourable <hi>CHARLES CAPELL</hi> Eſq;</head>
+            <lg>
+               <l>SO ſoone remov'd? can <hi>HE</hi> be winged Hence</l>
+               <l>And all the Muſes dumb? can <hi>He</hi> commence</l>
+               <l>A Saint in Secret? Such a Sun as <hi>HE</hi>
+               </l>
+               <l>Be thus invelop'd in the Canopie</l>
+               <l>Of profound Darkneſſe, long, and diſmall Night,</l>
+               <l>And ſhall not we all mourne in Black and White?</l>
+               <l>It cannot be! for even coſtive I,</l>
+               <l>Whoſe Hide-bound fancy dread's all Poëtrie,</l>
+               <l>Now ſtrein to weepe a Rythme, and needs muſt vent</l>
+               <l>My greife in uncouth language, and lament</l>
+               <pb n="8" facs="tcp:64851:6"/>
+               <l>The world's ſad loſſe, and Towring Honour's Fall,</l>
+               <l>In <hi>This,</hi> ſo Great a Perſon's, Funerall.</l>
+            </lg>
+            <lg>
+               <l>Generall Cataſtrophe! the Nation</l>
+               <l>Seem's to be almoſt <hi>Levell'd,</hi> now <hi>He's</hi> gon:</l>
+               <l>And, if <hi>His Brother</hi> did not live to be</l>
+               <l>All Ages Pattern, and Typographie</l>
+               <l>Of wondring <hi>Europe;</hi> Id'e believe henceforth</l>
+               <l>That there might be a <hi>Party</hi> in worth;</l>
+               <l>And none hereafter dare to plead pretence</l>
+               <l>To anie, 'bove the vulgar Excellence:</l>
+               <l>But This prodigious <hi>HE,</hi> finding a Dearth</l>
+               <l>Of Heroe's, made <hi>His</hi> Life equall <hi>His</hi> Birth;</l>
+               <l>And, not content with native Greatneſſe, <hi>HE</hi>
+               </l>
+               <l>Improv'd <hi>His</hi> richer Soile by Induſtrie;</l>
+               <l>And ever husbanded <hi>His</hi> time ſo well,</l>
+               <l>
+                  <hi>He</hi> was become full Ripe before <hi>He</hi> Fell.</l>
+               <l>But Blaſted are our Hopes, let's fruitfully</l>
+               <l>Water with Teares <hi>His</hi> Hearſe; let every</l>
+               <l>Pen ſpeake <hi>Him</hi> truly Great, and Good, and cry</l>
+               <l>Such are the Ruins of Nobility!</l>
+            </lg>
+            <closer>
+               <signed>GABRIELL THISTLETHWAYTE. Fellow of New Col. Civ.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="9" facs="tcp:64851:6"/>
+            <head>On The Truly Noble <hi>CHARLES CAPELL</hi> Eſq; immaturely taken hence, being with in few weekes of Marriage</head>
+            <lg>
+               <l>VVHen Common men deceaſe, t'will ſerve then turns,</l>
+               <l>If with a ſigh we waite upon their Urnes;</l>
+               <l>Wee 'l no ſuch Mourning: who come's here, tis meant</l>
+               <l>He bring the Bottles of ſome Penitent:</l>
+               <l>His eyes and all, like clouds muſt pregnant be</l>
+               <l>With Showers to lament <hi>This</hi> Deſtiny,</l>
+               <l>That the Faire <hi>Lady,</hi> whom <hi>His</hi> Courtly charmes,</l>
+               <l>Prevail'd, e're long, t' empale within <hi>His</hi> Armes,</l>
+               <l>Betweene <hi>Her ſelfe,</hi> and <hi>Her dead Lover</hi> (As</l>
+               <l>'Twixt <hi>Hero</hi> and <hi>Leander</hi> once it was)</l>
+               <l>May to bewaile th' <hi>Diviſion,</hi> ſee there do'es</l>
+               <l>An <hi>Helleſpont</hi> of Teares ſoone interpoſe.</l>
+            </lg>
+            <lg>
+               <l>Nor can we give leſſe Paſſion to condole</l>
+               <l>The ſuddaine Flight of ſo <hi>Divine a ſoule;</hi>
+               </l>
+               <l>As diſaffected with the baſer waies,</l>
+               <l>Trod by the Gallants of theſe lewder dayes,</l>
+               <l>An higher Walke frequented 'bove the place</l>
+               <l>Where th' Gyant Planet trot's his lofty pace;</l>
+               <l>Shooting <hi>His</hi> thoughts (thoſe arrowes of the mind)</l>
+               <l>Up to the Pallace of the <hi>Unconfin'd.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:64851:7"/>
+               <l>But this <hi>Elogium</hi> only ſhew's we ſcan</l>
+               <l>
+                  <hi>His</hi> Chriſtian Parts, Let's ſpeake <hi>Him</hi> as a man:</l>
+               <l>Since Madam Nature ha's <hi>Her Jewels</hi> too,</l>
+               <l>Thoſe Minion Graces that ſhe doe's beſtow.</l>
+            </lg>
+            <lg>
+               <l>And breathing on <hi>This</hi> Theame, who'l not ſuppoſe</l>
+               <l>I' me blowing open a moſt Fragrant Roſe?</l>
+               <l>For looking thus into <hi>Him,</hi> what do I</l>
+               <l>But into a like Garden boldly pry</l>
+               <l>As that where Poets ſay men may behold,</l>
+               <l>A ſtately Tree laden with Fruit of gold?</l>
+               <l>
+                  <hi>His</hi> youthfull yeares could we exactly trace</l>
+               <l>They 'd make a froſty Grandfire hide his Face,</l>
+               <l>To know the Prudence that enchaſ'd <hi>His</hi> breaſt,</l>
+               <l>More than by doating <hi>Rabbies</hi> is poſſeſt.</l>
+               <l>
+                  <hi>His</hi> Temper was ſo ſweete, <hi>His</hi> wit acute,</l>
+               <l>'Twould ha' made <hi>Fletcher,</hi> or <hi>Ben-Jonſon,</hi> mute:</l>
+               <l>
+                  <hi>His valour</hi> too may well be underſtood,</l>
+               <l>When in ſuch times as Theſe, He <hi>durſt be Good;</hi>
+               </l>
+               <l>
+                  <hi>Who</hi> as in age, ſo ſtill in vertue roſe,</l>
+               <l>It is no wonder Heav'n would <hi>Him</hi> engroſſe.</l>
+            </lg>
+            <lg>
+               <l>Thus the bright Queene, That Regent of the Night<g ref="char:punc">▪</g>
+               </l>
+               <l>As ſhe advance's gathers Greater Light,</l>
+               <l>Yet muſt at length (if not diſſolve) Away;</l>
+               <l>The World's not made without a Fatall day.</l>
+            </lg>
+            <closer>
+               <signed>THO. HOWELL.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="11" facs="tcp:64851:7"/>
+            <head>On the Death of <hi>CHARLES CAPELL</hi> Eſq; ſecond Sonne to the L<hi rend="sup">d</hi> 
+               <hi>CAPELL</hi> of famous memory, hapning on <hi>Chriſtmas-Day.</hi>
+            </head>
+            <lg>
+               <l>COuld ſable Drops from Pen and Eyes diſtill,</l>
+               <l>Or Briny Teares b' extracted from a Quill;</l>
+               <l>Could Greife with Colour'd Accents ſighing groane,</l>
+               <l>Or Words put on a ſad Complexion;</l>
+               <l>I 'ld writing weepe, and weeping write; my Teares</l>
+               <l>Should ſpeake <hi>Thy</hi> Death, my words bedew <hi>Thine</hi> Hearſe.</l>
+            </lg>
+            <lg>
+               <l>My Genius ('tis confeſt) vailes to the Reſt</l>
+               <l>In writing Elegies: Mourne's with the beſt.</l>
+               <l>Should Heedleſſe Greife ſome faults in Lines incurre,</l>
+               <l>Teares ſhould waſh out the blot; Groanes clenſe the blurre.</l>
+            </lg>
+            <lg>
+               <l>Preſumptuous Death! t' inſult and Triumph then</l>
+               <l>On Men Renown'd, and Nobler Spirits; when</l>
+               <l>Thine owne Captivity thou ſhould'ſt deplore</l>
+               <l>Gain'd by our Captains Birth, a Saviour.</l>
+               <l>So ſtormes a Calme deface: unhappy we</l>
+               <l>To mourne, not joy on the <hi>Nativity.</hi>
+               </l>
+               <l>But ſtay; ſure 'twas <hi>Thy</hi> Zeale, Divine deſire</l>
+               <l>To ſolemnize this Feaſt among the Quire</l>
+               <l>Of Saints and Angels; where to Sing thy Part,</l>
+               <l>And fill the Chorus, theſe ſhall give thee Art.</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:64851:8"/>
+               <l>Pardon, <hi>Dear Saint,</hi> ſince I've preſum'd to be</l>
+               <l>Partner in Greife, grant an Indemnity</l>
+               <l>T' a Twilight-fancy, whoſe bright ſunne being ſate</l>
+               <l>Shall ceaſe to write, though not to imitate.</l>
+            </lg>
+            <closer>
+               <signed>WILL: MILES Batch: of Arts in New. Coll.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>On the Death of the truly Noble and no leſſe vertuous <hi>CHARLES CAPELL</hi> Eſq; who dyed of the <hi>Small-Pox</hi> Vpon ChrIſtMas Day Laſt.</head>
+            <lg>
+               <l>TO write <hi>your</hi> Life were it my Taske <hi>Great Sir,</hi>
+               </l>
+               <l>I feare I ſhould ſubſcribe your murderer:</l>
+               <l>To do 't to <hi>Halfes</hi> were faire; But t' would be ſ'ed</l>
+               <l>I kill'd <hi>you,</hi> were 't but <hi>drawne and quartered;</hi>
+               </l>
+               <l>Yet he 's <hi>Long-liv'd, dread Saint,</hi> who but procures</l>
+               <l>Life to improve like <hi>You</hi> the <hi>Tythes</hi> of <hi>Yours.</hi>
+               </l>
+               <l>So that I dare not ſay, <hi>You</hi> Non-ag'd dy'd:</l>
+               <l>Though it be true, the world would ſweare I Ly'd:</l>
+               <pb n="13" facs="tcp:64851:8"/>
+               <l>Nay, though by what <hi>You</hi> Liv'd, it might have knowne</l>
+               <l>Had <hi>You</hi> Liv'd ſtill, <hi>You</hi> 'de ner'e beene <hi>over-growne,</hi>
+               </l>
+               <l>Yet <hi>Under-age</hi> it wo'nte allowe, but hold</l>
+               <l>
+                  <hi>Your</hi> Ripeneſſe ne're was Non-age'd, but borne Old.</l>
+               <l>Were 't not that <hi>Innocents</hi> are <hi>Infants</hi> ſtyle'd</l>
+               <l>Who ſaw <hi>You</hi> Youngeſt never knew <hi>You</hi> Childe:</l>
+               <l>Proſe licence me! For <hi>Him</hi> verſe is not meete</l>
+               <l>Whoſe Life, though ſoone <hi>run<g ref="char:punc">▪</g> out, out-runs</hi> thoſe <hi>Feete.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I would dare venture on't; but ſince I know</l>
+               <l>To ſpeak to th' Life is not to make <hi>Him</hi> ſo,</l>
+               <l>Nothing but Death I'le breath, I ne're did feare</l>
+               <l>The <hi>Small-Pox</hi> could fore-run a <hi>Plague</hi> but Here:</l>
+               <l>'Twould <hi>Rack</hi> a Poet-parliament to ſit</l>
+               <l>And club Invention to ſpeake well of it.</l>
+               <l>Thoſe <hi>ſpots His</hi> Body did beſpangle, ſay</l>
+               <l>That they were <hi>ſtars</hi> fix'd in the <hi>milkie-way;</hi>
+               </l>
+               <l>Yet mourning <hi>His</hi> DECREASE, we muſt complaine</l>
+               <l>
+                  <hi>Stars in this milkie-way</hi> prove'd CHARLES <hi>His</hi> WAINE.</l>
+               <l>
+                  <hi>Small-Pox!</hi> Thou <hi>nick-name'd</hi> Evill! I dare not call</l>
+               <l>That Grape-ſtone which but choak'd <hi>Anacreon,</hi> Small,</l>
+               <l>And ſhalt Thou be? Thou ſhouldſt have caſt about</l>
+               <l>To play <hi>ſmall games;</hi> then Here thou hadſt <hi>ſtood out.</hi>
+               </l>
+               <l>What? leaſt that <hi>Noble Blood</hi> ſhould ſtill have gone</l>
+               <l>
+                  <hi>Untainted,</hi> muſt Thou bring Infection?</l>
+               <l>Could I ſpit venome to blemiſh thee, I'de trie</l>
+               <l>To make thy <hi>ſpots</hi> more and of deeper Die.</l>
+            </lg>
+            <lg>
+               <l>And, Thou <hi>Black-day,</hi> ſcarce ſhould I think it fit</l>
+               <l>To name thee under <hi>Black</hi> and <hi>White</hi> with it:</l>
+               <l>But that I find thee <hi>Checkcr'd,</hi> for I ſee</l>
+               <l>His Death falls in with <hi>Chriſts Nativitie.</hi>
+               </l>
+               <l>And thus 'twas fit. <hi>His</hi> Life and Death accorde,</l>
+               <l>
+                  <hi>He liv'd,</hi> the <hi>Day</hi> ſpeakes, <hi>to die in the Lord.</hi>
+               </l>
+               <pb n="14" facs="tcp:64851:9"/>
+               <l>Then quit the day: And 'till we thinke of worſe</l>
+               <l>We'le let the <hi>Pox</hi> that <hi>plagu'd</hi> us be a <hi>Curſe.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>EDW: LOWE fellow of New Col.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>On the Death of the Eminently Enobled <hi>CHARLES CAPELL</hi> Eſq; <hi>Who,</hi> after <hi>He</hi> had honour'd <hi>Winton Coll.</hi> with <hi>His</hi> Education, and accompliſht. <hi>Himſelfe</hi> with a voyage into <hi>FRANCE,</hi> Dyed of the <hi>Small-Pox, at LONDON</hi> Laſt <hi>Chriſtmas</hi> 1656.</head>
+            <lg>
+               <l>SHow'r downe your Ponderous Teares, who e're you be</l>
+               <l>Dare Write, or Read a <hi>CAPELL'S</hi> Elegie;</l>
+               <l>Spangle <hi>His</hi> Hearſe with Pearles, ſuch as are borne</l>
+               <l>'Twixt the blear'd Eielids of an o're caſt Morn:</l>
+               <l>And (but 'tis vain t' expoſtulate with Death,</l>
+               <l>Or vilifie the Fates with fruſtrate breath)</l>
+               <pb n="15" facs="tcp:64851:9"/>
+               <l>Poſe Deſtinie with <hi>Why's, Why</hi> Such a Sun</l>
+               <l>Should ſet, before <hi>His</hi> Noonetide Stage were run?</l>
+               <l>
+                  <hi>Why</hi> This Faire Volume ſhould be Bound ſo faſt</l>
+               <l>In Wooden Covers, Claſp't-up in ſuch haſt?</l>
+               <l>Was Nature fond of It's Large Character,</l>
+               <l>And thoſe Divine Impreſſions graven There?</l>
+               <l>Did ſhee, leaſt we ſhould ſpoyl't (to wave that Sin)</l>
+               <l>'Cauſe 'twas the Beſt-Edition <hi>call-it-in?</hi>
+               </l>
+               <l>Or would our Vaunting <hi>Iſle</hi> that Saints ſhould ſee</l>
+               <l>Th' utmoſt of all our Prodigalitie;</l>
+               <l>Fearing ſome detriment by long delay,</l>
+               <l>Send Heav'n a <hi>New-Year's-Gift, Before the Day?</hi>
+               </l>
+               <l>No: th' Empyrean <hi>Philomels</hi> could ſing</l>
+               <l>Without <hi>His</hi> voice; no <hi>Carolls</hi> to their King.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>England's Metropolis</hi> (for 'twas in Thee</l>
+               <l>
+                  <hi>He</hi> dy'd) We re-baptize Thee <hi>Calvarie,</hi>
+               </l>
+               <l>The Charnel-houſe of Gallantry; henceforth</l>
+               <l>We brand Thy Front, with, <hi>Golgotha of Worth.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Had <hi>He</hi> bin Swallow'd in that Curteous Deep</l>
+               <l>
+                  <hi>He</hi> Travail'd o're, <hi>He</hi> had bin lull'd aſleep</l>
+               <l>In th' Amorous <hi>Sea-Nymphs</hi> ſtately Armes at eaſe,</l>
+               <l>
+                  <hi>His</hi> Great Name would Impoſthumate the Seas;</l>
+               <l>That when the Waves ſhould Swell, and Tempeſts riſe,</l>
+               <l>(Strong Waters challenging the Daſtard Skies)</l>
+               <l>Poore Shipwrack't Mariners, remembring <hi>Him</hi>
+               </l>
+               <l>Should court <hi>His Aſteriſme,</hi> and ceaſe to ſwimm;</l>
+               <l>Abjure the <hi>Fatall-Brothers</hi> glow-worme-<hi>Fires,</hi>
+               </l>
+               <l>And dart at <hi>Him</hi> their languiſhing deſires.</l>
+            </lg>
+            <lg>
+               <l>Had <hi>France</hi> intomb'd <hi>Him</hi> (what Our <hi>Land</hi> forbid's)</l>
+               <l>Nature had rear'd <hi>Him</hi> Stately <hi>Pyramids</hi>
+               </l>
+               <l>The lofty <hi>Alpes,</hi> where it had bin moſt meete</l>
+               <l>Their harmleſſe Snow ſhould be <hi>His</hi> Windingſheet,</l>
+               <pb n="16" facs="tcp:64851:10"/>
+               <l>That <hi>Alablaſter</hi>-Coverture might be</l>
+               <l>An Embleme of <hi>His</hi> native-Puritie:</l>
+               <l>Had <hi>He</hi> fall'n <hi>There,</hi> it had bin <hi>True</hi> perchance,</l>
+               <l>WICCHAM's <hi>Third Colledge might be found in</hi> FRANCE.</l>
+            </lg>
+            <lg>
+               <l>But <hi>He</hi> return'd from Thence, curb'd <hi>Neptune's</hi> pride;</l>
+               <l>And, to our Fame and Greife, came Home, and <hi>Dy'd.</hi>
+               </l>
+               <l>Thus, when the Heav'n ha's whee'ld it's <hi>Dayly</hi> Race</l>
+               <l>About Our Earth; At <hi>Night</hi> it's glorious <hi>Face</hi>
+               </l>
+               <l>Is <hi>Pox't</hi> with Starres: Yet Heav'n admits no Blot,</l>
+               <l>And ev'ry Pimple <hi>There</hi>'s a Beauty-ſpot.</l>
+               <l>Shortliv'd <hi>Diſeaſe,</hi> that can'ſt be cur'd and gon,</l>
+               <l>By One ſweet <hi>Morning</hi>'s <hi>Reſurrection!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Adieu Great <hi>Sir, whoſe</hi> Totall He that will</l>
+               <l>Deſcribe in Folio need's a <hi>Cherub's</hi> Quill.</l>
+               <l>Zealous Poſterity <hi>Your</hi> Tombe ſhall ſtirre,</l>
+               <l>Hoard up <hi>Your</hi> Duſt, Rifle <hi>Your</hi> Sepulcher;</l>
+               <l>And (as the <hi>Turks</hi> did <hi>Scanderbeg's</hi> of old)</l>
+               <l>Shall weare <hi>your</hi> Bones in Annulets of Gold.</l>
+               <l>But my blaſphemous Pen, prophane's <hi>His</hi> Glory;</l>
+               <l>I'le ſay but <hi>This</hi> to all <hi>His</hi> Tragique Story:</l>
+               <l>Were not the <hi>World</hi> well-<hi>nigh it's Funerall,</hi>
+               </l>
+               <l>I'de ne're believe ſo Bright a <hi>Starre</hi> could <hi>Fall.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>THO. FLATMAN. fellow of New Col.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="17" facs="tcp:64851:10"/>
+            <head>On the lamented death of <hi>CHARLES CAPELL</hi> Eſq; deceaſed laſt <hi>Chriſtmas.</hi> 1656.</head>
+            <lg>
+               <l>FIrſt ſhall the Poles concurre, and joine in one,</l>
+               <l>And vaulted Snayles the light foot Hare out-run:</l>
+               <l>Firſt ſhall the Ocean ſinke into a Drop,</l>
+               <l>And life, and Death t' oppoſe each other ſtop;</l>
+               <l>E're Pen, or Tongue, or Thought, can comprehend</l>
+               <l>Our boundleſſe loſſes by Great <hi>CAPEL's</hi> End.</l>
+               <l>Were the ſage Antiquaries Heer combin'd</l>
+               <l>In Him alone they'd a <hi>Non ultrà</hi> find.</l>
+            </lg>
+            <lg>
+               <l>Could now my power my heart but countermain,</l>
+               <l>I'de tread the Clouds to view <hi>Him</hi> in <hi>His Wain:</hi>
+               </l>
+               <l>Wer't at my liberty to weep my fill,</l>
+               <l>Mines Eyes ſhould Bloody Deluges diſtill,</l>
+               <l>That heav'n, and Earth might both be dy'd in Red,</l>
+               <l>'Caus Black's too Light to moan a <hi>CAPEL</hi> dead.</l>
+               <l>Thrice happy, <hi>Julius,</hi> may thy Year be term'd,</l>
+               <l>Whoſe Riſe and Fall Two <hi>Heroes</hi> have confirm'd:</l>
+               <l>Thy <hi>January,</hi> and <hi>December,</hi> ſhall</l>
+               <l>Be writ henceforth in Letters Capitall.</l>
+               <l>Royall approximation! Theſe Two Themes</l>
+               <l>Tell us, the Vertues may be in Extreams:</l>
+               <l>What t' <hi>One Montroſse's</hi> learned Sword once gave</l>
+               <l>Th' <hi>Other</hi> ſhall in our Hearts Engraven have</l>
+            </lg>
+            <lg>
+               <pb n="18" facs="tcp:64851:11"/>
+               <l>Methinks we all Circumferentiall ſeeme,</l>
+               <l>Till meeting we Concentricate in <hi>Him.</hi>
+               </l>
+               <l>Nature's Epitome, Our Blazing Starre</l>
+               <l>In whom like Rayes the vertues gather'd were;</l>
+            </lg>
+            <lg>
+               <l>Thus much in Generalls: for <hi>He's</hi> like Stars</l>
+               <l>Too comprehenſive for Particulars.</l>
+               <l>His fame (like th' Eagle from a Roman's Hearſe)</l>
+               <l>By <hi>Pſaphon's</hi> Birds, ſhall fill the Univerſe.</l>
+            </lg>
+            <lg>
+               <l>Thrice happy <hi>Wicchamiſts!</hi> on Us were darted</l>
+               <l>The Morning Beams of This bright Sun departed.</l>
+               <l>Unhappy world under Death's fatall Law</l>
+               <l>Thou 'rt Plundred of Thy Cornucopia,</l>
+               <l>And ſpendthrifts we Our Stock being brought ſo Low,</l>
+               <l>May quite deſpaire and now a begging go.</l>
+               <l>Thus our Penfeather'd Lives may ſeem to be</l>
+               <l>The Actors of our owne Cataſtrophe.</l>
+            </lg>
+            <lg>
+               <l>Rare, and Divine! too rich for Inhumation</l>
+               <l>Fitter by farre, for <hi>Enoch's</hi> high tranſlation.</l>
+               <l>Boaſt not <hi>Antipodes,</hi> though You alone</l>
+               <l>May ſay you tread againſt Two Worlds for one,</l>
+               <l>Deſpair of Parallels now <hi>Hee's</hi> in Heaven,</l>
+               <l>Till the next great <hi>Platonick Fifty ſeven.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>THO: MUSPRAT fellow of New Col.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="19" facs="tcp:64851:11"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Or An ELEGIE On the Death of the Honourable <hi>CHARLES CAPELL</hi> Eſq; <hi>Who,</hi> after <hi>He</hi> had grac't <hi>Winton Coll.</hi> with <hi>His</hi> Society, made a Voyage into <hi>FRANCE,</hi> And returning, upon Chriſtmas Day, not long before <hi>His</hi> intended Marriage, Dyed 1656.</head>
+            <lg>
+               <l>BUt it is true? Nay, then Intomb'd</l>
+               <l>Wiſdome muſt lie, and Honour Doom'd,</l>
+               <l>Thoſe Royall Twins that might comprize</l>
+               <l>The Angels in their Hierarchies:</l>
+               <l>That Eagle-ſpread, thoſe Lamps that die</l>
+               <l>The Azure-ſpangled-Canopie.</l>
+            </lg>
+            <lg>
+               <l>Lo! CHARLES is Dead, 'tis all in all,</l>
+               <l>The loſſe is Epidemicall:</l>
+               <l>Let <hi>Orpheus</hi> come, or <hi>Heraclyte,</hi>
+               </l>
+               <l>Let England club Her <hi>Anchorite;</hi>
+               </l>
+               <l>All's inarticulate, as be</l>
+               <l>The ſpeechleſſe ſignes of Heraldrie.</l>
+            </lg>
+            <lg>
+               <pb n="20" facs="tcp:64851:12"/>
+               <l>Had I the <hi>Prophet's</hi> head, that Floud</l>
+               <l>Of Sacred Sorrow; could I Bloud,</l>
+               <l>As <hi>Jove</hi> did Gold, diſtill a Pond,</l>
+               <l>And ev'ry drop a <hi>Diamond;</hi>
+               </l>
+               <l>Then would I write, and richly conne</l>
+               <l>The Deluge of <hi>Deucalion;</hi>
+               </l>
+               <l>Then would I blaze the glimm' ring Sun,</l>
+               <l>And Gild the Fate of <hi>Phaëton;</hi>
+               </l>
+               <l>From 's <hi>Fall</hi> I'de Vigour take, as once</l>
+               <l>The Corps did from <hi>Eliſha's</hi> Bones:</l>
+               <l>So limbeck-like, I'de Rhet'rick drain,</l>
+               <l>And drop it by retail againe.</l>
+            </lg>
+            <lg>
+               <l>Thus am I Tantaliz'd, and act</l>
+               <l>The Mute, within a Cataract:</l>
+               <l>Fame's Trump is full; but who can ſize</l>
+               <l>or Paramount Hyperbolies?</l>
+               <l>Yet (a) <hi>Atys</hi>—like I'le <hi>ſpeake,</hi> and chide</l>
+               <l>The Fate's diſloyall <hi>Deicide;</hi>
+                  <note place="margin">
+                     <hi>Croeſus</hi> his dumb Son.</note>
+               </l>
+               <l>And <hi>He,</hi> as <hi>Chriſt</hi> in ſwathes, ſhall lie</l>
+               <l>Grip't up in This Stenographie.</l>
+            </lg>
+            <lg>
+               <l>View then <hi>His</hi> Non-age, and the ſtore</l>
+               <l>Of <hi>WICCHAM</hi>'s Mineralls, The Ore</l>
+               <l>So oft refin'd, You'l change the liſt,</l>
+               <l>Our Pioner prove's Alchymiſt:</l>
+               <l>
+                  <hi>Neſtor</hi>'s ſurviv'd; Here then deſcry</l>
+               <l>Old <hi>Aeſon</hi>'s Palingeneſy.</l>
+            </lg>
+            <lg>
+               <l>View <hi>Him</hi> agen, You'l find i'th' draught</l>
+               <l>A Planet, or an <hi>Argonaut:</hi>
+               </l>
+               <l>The <hi>Fleece He</hi> gain'd, without a Spell,</l>
+               <l>Or Paliſado 'd Sentinell:</l>
+               <l>His <hi>Helleſpont</hi> was but a Creek,</l>
+               <l>His <hi>Cholcos,</hi> learned <hi>Armorik.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="21" facs="tcp:64851:12"/>
+               <l>Correct your Maps; let <hi>Rome</hi> recall</l>
+               <l>The <hi>Britiſh</hi> Colonie: let <hi>Gaule</hi>
+               </l>
+               <l>In <hi>Him</hi> confeſſe <hi>ſhee</hi> did deſcry</l>
+               <l>
+                  <hi>Re-romanized Britanny.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hence then ye Dorres o'th 'Time, that prize</l>
+               <l>Your drouſy-Gods Idolatries;</l>
+               <l>That Guard your <hi>Lar,</hi> and ſtarve the name</l>
+               <l>Of never-dying <hi>Veſta</hi>'s <hi>Flame:</hi>
+               </l>
+               <l>Here's <hi>He</hi> that grace's both the Crowe</l>
+               <l>Of <hi>Pallas,</hi> and <hi>Diana</hi>'s Bowe;</l>
+               <l>
+                  <hi>His</hi> Diſh was Knowledge, all <hi>His</hi> Meate</l>
+               <l>Carv'd Labour, and <hi>His</hi> Sauce was Sweate.</l>
+            </lg>
+            <lg>
+               <l>Was not One fam'd who once out-ſhone</l>
+               <l>The Blazing-ſtarre of <hi>Macedon?</hi>
+               </l>
+               <l>Whoſe Orientall Vertues made</l>
+               <l>
+                  <hi>Sol, Cancer</hi>-like, run <hi>Retrograde.</hi>
+               </l>
+               <l>
+                  <hi>This, This</hi> is <hi>He,</hi> that Royall Gage,</l>
+               <l>
+                  <hi>Panaretus</hi> in 's Minorage:</l>
+               <l>
+                  <hi>He</hi> that Heav'n's<g ref="char:punc">▪</g> Empreſſe could diſthrone,</l>
+               <l>And captivate <hi>Endymion.</hi>
+               </l>
+               <l>
+                  <hi>This, This</hi> is <hi>He, His</hi> Heav'n <hi>He</hi> ſaw,</l>
+               <l>
+                  <hi>His Hymen,</hi> and <hi>His Naamah.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But ô the Fates! the greet is deare,</l>
+               <l>The Azure's turn'd a Sable Spheare,</l>
+               <l>And all reciprocally quaffe</l>
+               <l>An <hi>Hymen,</hi> and an Epitaph.</l>
+               <l>Is this, your promiſe, Fate? be gon,</l>
+               <l>'Tis damn'd Prevarication:</l>
+               <l>Thy <hi>Syren's</hi> Voice, and <hi>Hyen's</hi> Guile,</l>
+               <l>Ha's vanquiſh't <hi>Aegypt's Crocodile.</hi>
+               </l>
+               <l>Fell Tyger <hi>Earth!</hi> dare'ſt re-inthrall</l>
+               <l>Thy Infant's? and turne <hi>Caniball?</hi>
+               </l>
+               <pb n="22" facs="tcp:64851:13"/>
+               <l>Doe's not thy conſcious Wombe confeſſe</l>
+               <l>An un accuſtom'd Holyneſſe?</l>
+            </lg>
+            <lg>
+               <l>How ſhall I rate my Greife? Hee's dead,</l>
+               <l>How ſhall I be Inſpirited?</l>
+               <l>Oh <hi>Niobe</hi> were Thy Fate mine,</l>
+               <l>I'de wring out Gore, and ſhower Brine,</l>
+               <l>I'de weepe to <hi>Marble,</hi> and abide</l>
+               <l>
+                  <hi>His</hi> Teare<g ref="char:punc">▪</g> diſtilling <hi>Pyramide.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But Stay, tis true; the <hi>Prophet's</hi> come,</l>
+               <l>Heavn'd Herauld's borne: <hi>Delphos</hi> be dumbe,</l>
+               <l>Thus <hi>Ganymede's</hi> ariſing Urne</l>
+               <l>Portend's the Fall of <hi>Capricorne<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>He Falls, <hi>Alcides<g ref="char:punc">▪</g>
+                  </hi> like, to be</l>
+               <l>The Mirrour of Aſtronomie.</l>
+            </lg>
+            <lg>
+               <l>Could <hi>Leo's</hi>-Taile a Palace ſpare</l>
+               <l>For wanton <hi>Berenice's</hi> Haire,</l>
+               <l>And <hi>Leo</hi> Faile? No, ſcan the Bliſſe,</l>
+               <l>Tis CAPELL'S Apotheoſis:</l>
+            </lg>
+            <lg>
+               <l>The Hero's liſpt, but who can conn</l>
+               <l>His Threno-thriambeuticon?</l>
+            </lg>
+            <closer>
+               <signed>WILL. OLDYSS. fellow of New Col.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="23" facs="tcp:64851:13"/>
+            <head>On the Immature Death of the worthily Honoured, and truly noble, <hi>CHARLES CAPELL</hi> Eſq; who died on <hi>Chriſtmas day</hi> Anno Dom. 1656.</head>
+            <lg>
+               <l>CEaſe <hi>Rocky</hi> Mourners, you whoſe <hi>Flinty</hi> eyes</l>
+               <l>Guſh forth no Torrents at theſe obſequies</l>
+               <l>If <hi>Moſes</hi> ſpare his <hi>Rod:</hi> may none view this</l>
+               <l>Rich Urne, who weep's without an Emphaſis.</l>
+            </lg>
+            <lg>
+               <l>A CAPELL'S Set, or <hi>He</hi> his luſtre ſhrowd's,</l>
+               <l>Mounting to 's <hi>Apogaeum</hi> through the Clouds,</l>
+               <l>For who dares thinke <hi>He</hi>'s mortall, whoſe great name</l>
+               <l>Can Entheat Dull-wits, and nonplus Fame?</l>
+               <l>No, no, that hand that murther's others, is</l>
+               <l>To <hi>Him,</hi> but <hi>Enoch's Metamorphoſis.</hi>
+               </l>
+               <l>Imagine how flaming <hi>Elias</hi> went,</l>
+               <l>Coach't like bright <hi>Phaebus</hi> through the firmament,</l>
+               <l>Thus Soar'd our <hi>Seraphim:</hi> no period</l>
+               <l>Stopt his Career till Centred in his God.</l>
+            </lg>
+            <lg>
+               <l>When Heaven's Great <hi>Sonne</hi> unmaskt his new-borne face,</l>
+               <l>And like a Gyant, ſtrong to run his race</l>
+               <l>Flew from the Barriers of the wombe, and hurl'd</l>
+               <l>Downe <hi>Pythons</hi> of faint glory, which the world</l>
+               <l>Ador'd, <hi>Auguſtus</hi> humbly ceaſt to be</l>
+               <l>Stil'd <hi>Lord,</hi> ecclipſed by Divinitie:</l>
+               <pb n="24" facs="tcp:64851:14"/>
+               <l>So <hi>Our Auguſtus</hi> Hot with active Zeale</l>
+               <l>Pluck't off <hi>His</hi> Body, then began to feele</l>
+               <l>More vigorous Heat, which made him ſcorne to be</l>
+               <l>Honour'd on Earth at <hi>Chriſts Nativitie;</hi>
+               </l>
+               <l>Wherefore undauntedly <hi>He</hi> cuts <hi>His</hi> way</l>
+               <l>Through th' Earths <hi>Charybdis,</hi> Death's <hi>Bulimia:</hi>
+               </l>
+               <l>But (like the <hi>Arke</hi>) at laſt he haven's at</l>
+               <l>The Toppe of that celeſtiall <hi>Ararat;</hi>
+               </l>
+               <l>Where <hi>He</hi> reſides, a Repreſentative</l>
+               <l>Able to make another world Alive.</l>
+            </lg>
+            <lg>
+               <l>Aſcended then <hi>He</hi> is and now His face</l>
+               <l>Plac't in a better Light, preſents each grace</l>
+               <l>Fairer and more perſpicuous to our Eyes,</l>
+               <l>Then nearneſſe can, the Pencill's rarities;</l>
+               <l>Thus we admire, thus we adore the ſhrine</l>
+               <l>That comprehended nought but was Divine.</l>
+            </lg>
+            <lg>
+               <l>Farewell Brave Soule; O that Earth had a Neſt</l>
+               <l>To lodg this Dove, where <hi>He</hi> a while might reſt</l>
+               <l>And then returne! Had <hi>He</hi> the <hi>Phaenix</hi> doome</l>
+               <l>We now might have another in <hi>His</hi> roome:</l>
+               <l>Heav'n lent <hi>Him</hi> but foure Luſtres, to which foure</l>
+               <l>
+                  <hi>He</hi> added Myriads of Luſtres more,</l>
+               <l>And ſure this well-improved Talent may</l>
+               <l>Expect glad Euge's at th' great Audit day.</l>
+               <l>Weepe then ſad World, and with rich Jove, each how'r</l>
+               <l>Drop from <hi>Thy</hi> Treaſury a Golden ſhowr.</l>
+               <l>He that lament's in uſuall teares, doe's trie</l>
+               <l>To make a peſant of a Deitie.</l>
+            </lg>
+            <lg>
+               <l>Once more Farewell High Spirit, we returne</l>
+               <l>And bow in adoration to <hi>Thine</hi> urne,</l>
+               <l>Before <hi>Whoſe</hi> loud Memorialls ſhall ceaſe,</l>
+               <l>The faſt-barr'd Graves their Pris'ners ſhall releaſe.</l>
+               <pb n="25" facs="tcp:64851:14"/>
+               <l>In breife we laſtly thus inſcribe His Hearſe;</l>
+               <l>Here <hi>lye's</hi> no <hi>Microcoſm,</hi> but an <hi>Univerſe.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>THO: KEN. Hart-Hall Com.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>On the untimely Death of the honourable <hi>CHARLES CAPELL</hi> Eſq; (ſecond Sonne to the Ladie <hi>CAPELL</hi>) deceas'd on <hi>Chriſtmas day laſt.</hi>
+            </head>
+            <lg>
+               <l>BUt, ſhall I truſt the <hi>Muſes</hi> on a Theame</l>
+               <l>Where, if not cautious, they muſt need's blaſpheme?</l>
+               <l>Will not thoſe <hi>Pagans,</hi> when they tell <hi>His</hi> fate</l>
+               <l>Lowdly with God, and Man expoſtulate?</l>
+               <l>Apt to pronounce in one licentious breath,</l>
+               <l>O Tyrant Heaven, and O Traitour Earth!</l>
+               <l>Or, if I ought to hope their daring pride</l>
+               <l>By this ſad accident is mortifi'd,</l>
+               <pb n="26" facs="tcp:64851:15"/>
+               <l>Yet are They not ſo pin'de with greife, that all</l>
+               <l>Can ſcarce clubbe Verſes for His Funerall.</l>
+            </lg>
+            <lg>
+               <l>Had I that Pen of <hi>Mars, His</hi> Father's Sword,</l>
+               <l>Not ſteept 'ith' <hi>Muſes Hors-poole,</hi> but begoard</l>
+               <l>In vanquiſh't Bloud, then with the Point impreſs't</l>
+               <l>On the Virgin Paper of my naked-Breaſt,</l>
+               <l>I'de grave His Eulogy, but that I feare,</l>
+               <l>I ſhould aſſaſſinate <hi>His</hi> Image There:</l>
+               <l>Cheap is the Eye's Hydrography, a Floud</l>
+               <l>Too low, unleſſe (with <hi>Jove</hi>) we could weep Blood.</l>
+            </lg>
+            <lg>
+               <l>Mirrour of Men! ſhuffled from Earth, and hurld</l>
+               <l>To Heav'n, to be the Riddle of the World;</l>
+               <l>With whom raſh Nature travail'd in poſt-haſt,</l>
+               <l>Borne an Old man, juſt like the <hi>Protoplaſt:</hi>
+               </l>
+               <l>And, but for's Beauties, and refined parts,</l>
+               <l>Plundring the Caskets of poore Ladies hearts,</l>
+               <l>His charming graces, and what ever can</l>
+               <l>Compleat Nobilitie, and write Man, Man;</l>
+               <l>One ſo Heroick, Pious, Juſt, and Good,</l>
+               <l>We ſhould diſtruſt <hi>Him</hi> to be Fleſh and Bloud;</l>
+               <l>But, heer's the greateſt wonder (ſtrange, and true)</l>
+               <l>He was a CAPELL, yet a Mortall too.</l>
+            </lg>
+            <lg>
+               <l>Thus happy was <hi>His</hi> life, but nobler bliſs</l>
+               <l>Attended on <hi>His Apotheoſis:</hi>
+               </l>
+               <l>Have you not ſeene the Starry Legions rowze</l>
+               <l>Themſelves, to keepe their Nightly Rendezvouze,</l>
+               <l>And all thoſe Heav'nly <hi>Janizaries</hi> riſe,</l>
+               <l>To guard the <hi>Freckled Empreſſe</hi> of the <hi>skies?</hi>
+               </l>
+               <l>Till One (impatient to ſtand ſtill, and heare</l>
+               <l>The charming Muſick of each warbling Sphaere)</l>
+               <l>Start's from His Rankes, and with diſhevel'd Haire</l>
+               <l>Mak's an Excurſion through the yielding Aire,</l>
+               <pb n="27" facs="tcp:64851:15"/>
+               <l>Dancing to th' Harmony, as if he He mean't</l>
+               <l>To frisk <hi>Lavaltoes</hi> through the Firmament?</l>
+               <l>So <hi>His</hi> unſhackled Soule, ſhooting through th' Crowd,</l>
+               <l>Of Lower thoughts, rode trampling on a Cloud,</l>
+               <l>Through Convoies of bright Starres, while He out-vy'd</l>
+               <l>Their ſtarveling glories, whoſe ecclipſed pride</l>
+               <l>Carry'd His Torches, but the leſſer Seaven</l>
+               <l>His Linke-boyes were to light him up to Heaven:</l>
+               <l>
+                  <hi>Atlas</hi> the Elephant preferr'd to beare</l>
+               <l>On 's brawny back, Heav'ns Caſtle in the Aire,</l>
+               <l>Felt then new weight, groan'd thrice, and by degrees</l>
+               <l>Sinking in Reverence, bent his humble knees,</l>
+               <l>Whileſt loſt Chronology, had nought to ſay</l>
+               <l>Wondring that <hi>Chriſtmas</hi> was <hi>Aſcention Day.</hi>
+               </l>
+            </lg>
+            <div type="part">
+               <head>To my <hi>Ladie.</hi>
+               </head>
+               <lg>
+                  <l>But, pardon (<hi>Madam</hi>) that our verſes come</l>
+                  <l>When greife ſhould ſtrike us dead, or manners dumbe;</l>
+                  <l>For though <hi>Your</hi> ſighes perfume <hi>Him</hi> with a breath</l>
+                  <l>Able t' aromatize the Grave, and Death;</l>
+                  <l>Yet, onely ſuch <hi>Confectioners</hi> as wee;</l>
+                  <l>Are able to <hi>preſerve His</hi> memorie;</l>
+                  <l>And <hi>Your</hi> Joint-regent Eyes, whoſe every Teare</l>
+                  <l>Can re-inſtate a Broken Jeweller,</l>
+                  <l>(Thoſe Chriſtall-Seas, where when <hi>You</hi> weepe, 'tis ſai'd,</l>
+                  <l>We neede not Dive for Pearls, for there they wade,)</l>
+                  <l>Do piouſly uſurpe Our ſhare, when ſolely</l>
+                  <l>
+                     <hi>You</hi> would monopolize all Melancholly.</l>
+                  <l>But, if theſe froathy Torrents of Our Eyes,</l>
+                  <l>Drowne with their Roaring, thoſe Soliloquies,</l>
+                  <pb n="28" facs="tcp:64851:16"/>
+                  <l>Snatch't up to Heav'n for matter to make Hymns</l>
+                  <l>By myriads of attendant Seraphims,</l>
+                  <l>Shed but one coſtly Tear, and <hi>You</hi> ſhall ſee</l>
+                  <l>'Twill inſtantly <hi>Diſſolve the Companie.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>FRANC. TURNER ſchollar of New Col.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64851:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
